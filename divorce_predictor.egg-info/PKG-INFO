@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: divorce-predictor
+Version: 0.0.1
+Summary: Divorce Predictor
+Home-page: https://github.com/RomanRosa/mlops_bootcamp
+Author: Francisco Roman Peña de la Rosa
+Author-email: mldevops2@gmail.com
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: numpy
+Requires-Dist: matplotlib
